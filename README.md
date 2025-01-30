@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AARR99
+- 👋 Hi, I’m Ash
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning Data/Business Analytics at the University of Leeds
 - 📫 How to reach me ...
